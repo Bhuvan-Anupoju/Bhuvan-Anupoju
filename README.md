@@ -63,14 +63,14 @@ const BHUVAN = {
 
 
 
-<p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-anupoju" alt="bhuvan-anupoju&" /></p>
 
 
 
 
 
 
-# 📊 GitHub Stats:
+
+# 📊 GitHub Stats 
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhuvan-Anupoju&theme=dark&hide_border=true)<br/>
