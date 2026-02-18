@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Bhuvan</h1>
 <h3 align="center">I am a Full Stack JavaScript Developer specializing in Node.js, Express.js, and React.js with strong problem-solving skills, building scalable and efficient web applications.</h3>
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-<h3 align="center">About Me</h3>
+
 
 <div>
 
@@ -16,6 +16,7 @@
     style="margin-left: 20px;"
     alt="Coding"
   />
+  <h3 align="center">About Me</h3>
 
 ```javascript
 const BHUVAN = {
