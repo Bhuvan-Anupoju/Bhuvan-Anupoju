@@ -4,7 +4,7 @@
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="center">About Me</h3>
 
-<img align="center" style="align-item:center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="center" style="align-items:center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
 const BHUVAN = {
