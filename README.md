@@ -63,6 +63,12 @@ const BHUVAN = {
 
 <p style="align-items:center;"><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-anupoju&" alt="bhuvan-anupoju" /></p>
 
+![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Bhuvan-Anupoju&theme=dark&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
