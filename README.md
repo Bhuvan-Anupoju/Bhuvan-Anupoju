@@ -1,3 +1,4 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%A1+Welcome+to+my+GitHub%2C+I+am+Bhuvan" alt="Typing SVG" /></a>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%A1+Welcome+to+my+GitHub%2C+I+am+Bhuvan)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Bhuvan</h1>
 <h3 align="center">I am a Full Stack JavaScript Developer specializing in Node.js, Express.js, and React.js with strong problem-solving skills, building scalable and efficient web applications.</h3>
