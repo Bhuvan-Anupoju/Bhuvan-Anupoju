@@ -69,7 +69,7 @@ const BHUVAN = {
 
 
 
-# github
+<h3 align="center">GitHub Statistics</h3>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
