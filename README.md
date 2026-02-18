@@ -4,16 +4,16 @@
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="left">About Me</h3>
 
-<!-- Image (will appear right on large screens, top on small screens) -->
-<p align="right">
+<div>
+
+  <!-- Image on Right -->
   <img 
     src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
     width="350"
+    align="right"
+    style="margin-left: 20px;"
     alt="Coding"
   />
-</p>
-
-<!-- Code (always left aligned) -->
 
 ```javascript
 const BHUVAN = {
@@ -35,6 +35,8 @@ const BHUVAN = {
     }
 };
 ```
+
+<div style="clear: both;"></div> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-anupoju&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-anupoju" /> </p>
 
