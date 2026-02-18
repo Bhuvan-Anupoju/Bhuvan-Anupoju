@@ -59,6 +59,6 @@ const BHUVAN = {
 
 
 
-
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-anupoju&" alt="bhuvan-anupoju" /></p>
 <img align="center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
