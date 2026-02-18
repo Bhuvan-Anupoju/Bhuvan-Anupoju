@@ -7,17 +7,24 @@
 <h3 align="left">About Me</h3>
 
 <div>
-<img align="center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
- 
+
+  <!-- Image on Right -->
+  <img 
+    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    width="350"
+    align="right"
+    style="margin-left: 20px;"
+    alt="Coding"
+  />
 
 ```javascript
 const BHUVAN = {
     pronouns: "He/Him",
-    location: "India",
+    location: "India 🇮🇳",
     specialization: ["Node.js", "Express.js", "React.js"],
-    currentFocus: "Building Scalable Web Applications ",
+    currentFocus: "Building Scalable Web Applications ⚙️",
     interests: ["Problem Solving", "Web Development", "APIs"],
-    motto: "If it compiles, we ship ",
+    motto: "If it compiles, we ship 🚀",
 
     lifeLoop: function () {
         while (true) {
@@ -30,7 +37,6 @@ const BHUVAN = {
     }
 };
 ```
-
 <div style="clear: both;"></div> </div>
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-anupoju&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-anupoju" /> </p>
