@@ -66,16 +66,7 @@ const BHUVAN = {
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-anupoju" alt="bhuvan-anupoju&" /></p>
 
 
-![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
-![](https://github-profile-trophy.vercel.app/?username=Bhuvan-Anupoju&theme=dark&no-frame=true&no-bg=false&margin-w=4)
-
-
-
-![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) 
 
 
 
@@ -86,14 +77,13 @@ const BHUVAN = {
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhuvan-Anupoju&theme=dark&no-frame=true&no-bg=false&margin-w=4)
+
+![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 
 
