@@ -10,12 +10,12 @@
 
   <!-- Image on Right -->
   <img 
-    src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+    src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"
     width="350"
     align="right"
     style="margin-left: 20px;"
     alt="Coding"
-  />
+  >
 
 ```javascript
 const BHUVAN = {
