@@ -63,7 +63,6 @@ const BHUVAN = {
 
 <p><img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvan-anupoju" alt="bhuvan-anupoju&" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvan-anupoju&show_icons=true&locale=en&layout=compact" alt="bhuvan-anupoju" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
 
