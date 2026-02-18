@@ -69,8 +69,22 @@ const BHUVAN = {
 
 
 
+<div style="max-width: 600px; margin: 20px auto; text-align: center;">
 
-# 📊 GitHub Stats 
+ 
+
+  <img 
+    src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" 
+    alt="GitHub Stats"
+    style="width: 100%; height: auto; border-radius: 10px;"
+  >
+> <h2 style="margin-bottom: 10px; font-size: 28px; font-weight: bold;">
+    📊 GitHub Statistics
+  </h2>
+
+</div>
+
+
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhuvan-Anupoju&theme=dark&hide_border=true)<br/>
