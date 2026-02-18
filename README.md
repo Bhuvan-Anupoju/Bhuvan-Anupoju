@@ -21,11 +21,11 @@
 ```javascript
 const BHUVAN = {
     pronouns: "He/Him",
-    location: "India 🇮🇳",
+    location: "India",
     specialization: ["Node.js", "Express.js", "React.js"],
-    currentFocus: "Building Scalable Web Applications ⚙️",
+    currentFocus: "Building Scalable Web Applications ",
     interests: ["Problem Solving", "Web Development", "APIs"],
-    motto: "If it compiles, we ship 🚀",
+    motto: "If it compiles, we ship ",
 
     lifeLoop: function () {
         while (true) {
@@ -50,7 +50,7 @@ const BHUVAN = {
 
 - ⚡ Always **Trust the process**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bhuvan-anupoju" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvan anupoju" height="30" width="40" /></a>
 </p>
@@ -81,7 +81,8 @@ const BHUVAN = {
 
 ![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+<img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
