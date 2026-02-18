@@ -18,11 +18,11 @@
 ```javascript
 const BHUVAN = {
     pronouns: "He/Him",
-    location: "India 🇮🇳",
+    location: "India",
     specialization: ["Node.js", "Express.js", "React.js"],
-    currentFocus: "Building Scalable Web Applications ⚙️",
+    currentFocus: "Building Scalable Web Applications ",
     interests: ["Problem Solving", "Web Development", "APIs"],
-    motto: "If it compiles, we ship 🚀",
+    motto: "If it compiles, we ship ",
 
     lifeLoop: function () {
         while (true) {
