@@ -22,10 +22,10 @@
 const BHUVAN = {
     pronouns: "He/Him",
     location: "India",
-    specialization: ["Node.js", "Express.js", "React.js"],
-    currentFocus: "Building Scalable Web Applications ",
-    interests: ["Problem Solving", "Web Development", "APIs"],
-    motto: "If it compiles, we ship ",
+    specialization: ["Express.js", "React.js"],
+    currentFocus: "Building Scalable Web Applications",
+    interests: ["Problem Solving", "Web Development", "AI"],
+    motto: "Bugs are proof you’re coding",
 
     lifeLoop: function () {
         while (true) {
