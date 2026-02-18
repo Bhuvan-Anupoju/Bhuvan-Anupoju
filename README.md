@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%A1+Welcome+to+my+GitHub%2C+I+am+Bhuvan)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Bhuvan Anupoju</h1>
 <h3 align="center">I am a Full Stack JavaScript Developer specializing in Node.js, Express.js, and React.js with strong problem-solving skills, building scalable and efficient web applications.</h3>
-<img align="center" alt="Coding" width="400" target= "blank" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+<img align="center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-anupoju&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-anupoju" /> </p>
 
