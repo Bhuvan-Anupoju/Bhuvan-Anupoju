@@ -4,6 +4,7 @@
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <img align="center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+```javascript
 const bhuvan = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
@@ -15,7 +16,7 @@ const bhuvan = {
     motto: "If it compiles, we ship 🚀",
 
     lifeLoop: function () {
-        while (alive) {
+        while (true) {
             think();
             code();
             debug();
@@ -24,6 +25,8 @@ const bhuvan = {
         }
     }
 };
+```
+
 
 
 
