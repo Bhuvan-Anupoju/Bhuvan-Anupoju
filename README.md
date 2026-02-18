@@ -4,9 +4,10 @@
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <h3 align="left">About Me</h3>
 
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 30px;">
+
+  <!-- Code Section -->
+  <div style="flex: 1 1 500px; min-width: 300px;text-align: left;">
 
 ```javascript
 const BHUVAN = {
@@ -28,7 +29,7 @@ const BHUVAN = {
     }
 };
 ```
-</td> <td width="40%" align="right" valign="top"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" /> </td> </tr> </table>
+</div> <!-- Image Section --> <div style="flex: 1 1 300px; min-width: 250px; text-align: right;"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="350" alt="Coding" /> </div> </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-anupoju&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-anupoju" /> </p>
 
