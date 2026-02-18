@@ -1,4 +1,4 @@
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%A1+Welcome+to+my+GitHub%2C+I+am+Bhuvan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E2%9A%A1+Welcome+to+my+GitHub%2C+I+am+Bhuvan)](https://git.io/typing-svg)
 <h1 align="center">Hi 👋, I'm Bhuvan Anupoju</h1>
 <h3 align="center">I am a Full Stack JavaScript Developer specializing in Node.js, Express.js, and React.js with strong problem-solving skills, building scalable and efficient web applications.</h3>
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
