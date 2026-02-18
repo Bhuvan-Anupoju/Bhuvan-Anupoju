@@ -71,7 +71,8 @@ const BHUVAN = {
 
 <h3 align="center">GitHub Statistics</h3>
 
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhuvan-Anupoju&theme=dark&hide_border=true)<br/>
@@ -80,6 +81,7 @@ const BHUVAN = {
 
 
 ![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 <img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
