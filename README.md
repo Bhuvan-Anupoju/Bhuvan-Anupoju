@@ -76,5 +76,5 @@ const BHUVAN = {
 
 ![](https://github-profile-trophy.vercel.app/?username=Bhuvan-Anupoju&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
-![](https://github-contributor-stats.vercel.app/api?username=Bhuvan-Anupoju&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 <img align="center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
