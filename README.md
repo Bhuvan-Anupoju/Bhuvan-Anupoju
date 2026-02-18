@@ -65,6 +65,7 @@ const BHUVAN = {
 
 
 
+![](https://github-profile-trophy.vercel.app/?username=Bhuvan-Anupoju&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 
 
