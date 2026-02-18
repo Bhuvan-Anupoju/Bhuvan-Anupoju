@@ -5,7 +5,7 @@
 <img align="center" alt="Coding" width="400" target= "blank" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ```javascript
-const bhuvan = {
+const BHUVAN = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
     specialization: ["Node.js", "Express.js", "React.js"],
