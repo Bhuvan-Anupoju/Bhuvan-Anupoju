@@ -37,7 +37,7 @@ const BHUVAN = {
 ```
 
 <div style="clear: both;"></div> </div>
-
+<img align="center" alt="Coding" width="100%" target= "blank" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvan-anupoju&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvan-anupoju" /> </p>
 
 
