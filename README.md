@@ -8,11 +8,9 @@
 const bhuvan = {
     pronouns: "He/Him",
     location: "India 🇮🇳",
-    role: "Full Stack JavaScript Developer",
     specialization: ["Node.js", "Express.js", "React.js"],
-    currentFocus: "Building Scalable Backend Systems ⚙️",
-    learning: ["Advanced System Design", "Performance Optimization"],
-    interests: ["Problem Solving", "Clean Architecture", "APIs"],
+    currentFocus: "Building Scalable Web Applications ⚙️",
+    interests: ["Problem Solving", "Web Development", "APIs"],
     motto: "If it compiles, we ship 🚀",
 
     lifeLoop: function () {
