@@ -7,15 +7,8 @@
 <h3 align="left">About Me</h3>
 
 <div>
-
-  <!-- Image on Right -->
-  <img 
-    src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966"
-    width="350"
-    align="right"
-    style="margin-left: 20px;"
-    alt="Coding"
-  >
+<img align="center" alt="Coding" width="400" target= "blank" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
+ 
 
 ```javascript
 const BHUVAN = {
@@ -69,20 +62,7 @@ const BHUVAN = {
 
 
 
-<div style="max-width: 600px; margin: 20px auto; text-align: center;">
-
- 
-
-  <img 
-    src="https://camo.githubusercontent.com/7b60918a718d321e304686494060b6ed7c0957dfd29e0961d6b0e49cb9550e7f/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" 
-    alt="GitHub Stats"
-    style="width: 100%; height: auto; border-radius: 10px;"
-  >
-> <h2 style="margin-bottom: 10px; font-size: 28px; font-weight: bold;">
-    📊 GitHub Statistics
-  </h2>
-
-</div>
+# github
 
 
 ![](https://github-readme-stats.vercel.app/api?username=Bhuvan-Anupoju&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
